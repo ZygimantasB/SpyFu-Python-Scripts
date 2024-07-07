@@ -1,0 +1,8 @@
+*.xml
+*.iml
+config.json
+shelved.patch
+credentials.json
+.idea/
+data.py
+venv
